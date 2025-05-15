@@ -1,4 +1,4 @@
-Django>=1.7,<1.9
+Django>=4.2.21
 django-formtools
 Pillow
 django-extensions
