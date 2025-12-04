@@ -1,4 +1,4 @@
-Django>=1.7,<1.9
+Django>=4.2.27
 django-formtools
 Pillow
 django-extensions
@@ -16,3 +16,4 @@ django-haystack
 elasticsearch
 sphinx
 coverage
+sqlparse>=0.5.4 # not directly required, pinned by Snyk to avoid a vulnerability
